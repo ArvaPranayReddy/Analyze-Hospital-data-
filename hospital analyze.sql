@@ -5,6 +5,7 @@ CREATE DATABASE IF NOT EXISTS hospital_analysis;
 USE hospital_analysis;
 
 
+
 CREATE TABLE IF NOT EXISTS hospital (
     id INT AUTO_INCREMENT PRIMARY KEY,
     person_type ENUM('Patient', 'Doctor', 'Nurse', 'Watchman', 'Staff') NOT NULL,
