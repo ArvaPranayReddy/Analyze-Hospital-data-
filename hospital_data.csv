@@ -1,0 +1,10 @@
+role,name,age,gender,department,admission_date,discharge_date,salary,shift,specialization,phone
+Patient,John Doe,45,Male,Cardiology,2023-03-15,2023-03-20,,,555-0101
+Patient,Jane Smith,32,Female,Orthopedics,2023-03-18,,,,555-0102
+Doctor,Dr. Emily Johnson,38,Female,Cardiology,,150000.00,Day,Cardiologist,555-0201
+Doctor,Dr. Michael Lee,42,Male,Orthopedics,,140000.00,Night,Orthopedic Surgeon,555-0202
+Nurse,Sarah Williams,29,Female,Cardiology,,60000.00,Day,Cardiac Nurse,555-0301
+Nurse,Robert Brown,33,Male,Emergency,,65000.00,Night,ER Nurse,555-0302
+Watchman,George Davis,50,Male,Security,,35000.00,Night,,555-0401
+Staff,Linda Martinez,27,Female,Administration,,45000.00,Day,Receptionist,555-0501
+Staff,Thomas Wilson,35,Male,Maintenance,,40000.00,Day,Janitor,555-0502
